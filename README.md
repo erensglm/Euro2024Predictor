@@ -1,9 +1,9 @@
 # Euro 2024 Winner Predictor
 
-14 Haziran'da yapılacak olan 2024 Avrupa Futbol Şampiyonası'nın makine öğrenimi ile simülasyonu.
+Simulation of the 2024 European Football Championship with machine learning.
 
 
-# Kısaca Sonuçlar
+# Results
 
 # Group Stage
 ![GroupStage](https://github.com/erensglm/EuroPredDemo/assets/101216457/1a04c171-9d3b-42cc-b4b0-41a73ec69e19)
